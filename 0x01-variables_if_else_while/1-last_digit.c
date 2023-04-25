@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
-/* 
- *Main - Assigns a random number and prints the last digit 
+/*
+ * main - Assigns a random number and prints the last digit 
  *
- *Returns: Always 0 (Success)
+ * Returns: Always 0 (Success)
  */
 
 int main(void)
