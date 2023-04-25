@@ -4,7 +4,7 @@
 
 /**
  *Main - Entry point
- *Description: 'Program that checks if a random number is positive, zero or negative.'
+ *Description: 'Checks if a random number is positive, zero or negative.'
  *Return: Always 0 (Success)
  */
 
