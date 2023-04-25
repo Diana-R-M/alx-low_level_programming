@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- *Main - Entry point
- *Description: 'Checks if a random number is positive, zero or negative.'
- *Return: Always 0 (Success)
+ * main - Entry point
+ * Description: 'Checks if a random number is positive, zero or negative.'
+ * Return: Always 0 (Success)
  */
 
 int main(void)
