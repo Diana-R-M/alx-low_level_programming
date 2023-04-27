@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - Entry point
+ * _isalpha - Entry point
  * Description: 'Returns 1 if c is a letter, lowercase or uppercase.'
  * Return: Always 0 (Success)
  */
