@@ -4,7 +4,7 @@
  * mul - Entry point
  * Description: 'multiplies two integers.'
  *@a: first integer
- @b: second multiple
+ *@b: second multiple
  * Return: Always 0 (Success)
  */
 
