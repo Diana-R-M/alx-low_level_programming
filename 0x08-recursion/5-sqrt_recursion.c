@@ -3,7 +3,7 @@
  * @n: int value
  * Return: sqrt of n
  */
-int natural_sqrt(int n, int i);
+
 int _sqrt_recursion(int n)
 {
 	if (n < 0)
