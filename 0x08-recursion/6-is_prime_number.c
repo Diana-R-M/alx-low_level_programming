@@ -16,13 +16,13 @@ int is_prime_number(int n)
 
 /**
  * prime_number - recursive calculation of prime number
- * @n: int value
+ * @a: int value
  * @b: iterator
  * Return: 1 if a == prime, 0 if not
  */
-int prime_number(int n, int b)
+int prime_number(int a, int b)
 {
-	if (n % b == 0 && b > 0)
+	if (a % b == 0 && b > 0)
 	{
 		return (0);
 	}
@@ -30,5 +30,5 @@ int prime_number(int n, int b)
 	{
 		return (1);
 	}
-	return (prime_number(n, b - 1));
+	return (prime_number(a, b - 1));
 }
