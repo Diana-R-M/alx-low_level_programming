@@ -3,7 +3,8 @@
 void prior(void) __attribute__ ((constructor));
 
 /**
- * first - prints before main is executed
+ * prior - prints before main is executed
+ * description: function that prints before main
  */
 
 void prior(void)
