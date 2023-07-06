@@ -34,9 +34,9 @@ void print_binary(unsigned long int n)
 
 		a--;
 	}
-	
+
 	if (!value)
-        {
+	{
 		_putchar('0');
 	}
 }
